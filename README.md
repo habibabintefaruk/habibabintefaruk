@@ -1,5 +1,5 @@
 
-<h1 align="center">Habiba Binte Faruk 👋</h1>
+<h1 align="center">Hi, I'm Habiba Binte Faruk 👋</h1>
 
 <h3 align="center">CSE Undergraduate | Research Enthusiast</h3>
 
@@ -31,7 +31,7 @@ I am interested in exploring emerging technologies and understanding how researc
 
 ## 📖 Currently Learning
 
-- Python for Research
+- Python 
 - Artificial Intelligence Concepts
 - Research Methodology
 - Programming Fundamentals
