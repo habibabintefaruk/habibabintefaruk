@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Habiba Binte Faruk 👋</h1>
+<h1 align="center">Hi, I'm Habiba Binte Faruk </h1>
 
 <h3 align="center">CSE Undergraduate | Research Enthusiast</h3>
 
@@ -8,7 +8,7 @@ Exploring Artificial Intelligence, Green AI & Sustainable Computing
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I am an undergraduate Computer Science and Engineering student at Manarat International University, Bangladesh.
 
