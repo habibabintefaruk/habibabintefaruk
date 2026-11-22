@@ -20,7 +20,7 @@ I am interested in exploring emerging technologies and understanding how researc
 - 💡 Interested in Sustainable Computing
 - 📚 Always learning and exploring new ideas
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Green Artificial Intelligence
 - Sustainable Computing
@@ -28,14 +28,14 @@ I am interested in exploring emerging technologies and understanding how researc
 - Environmental Impact of AI
 - Large Language Models (LLMs)
 
-## 📖 Currently Learning
+##  Currently Learning
 
 - Python 
 - Artificial Intelligence Concepts
 - Research Methodology
 - Programming Fundamentals
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,20 +44,20 @@ I am interested in exploring emerging technologies and understanding how researc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📂 Academic Projects
+##  Academic Projects
 
 ### 🐾 Animal Rescue & Rehabilitation Coordination System
 
 A team-based academic project focused on animal rescue reporting, coordination, and rehabilitation tracking.
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/habiba-binte-faruk-439480260/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/magfira.hossain.7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hazalyyyyyy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bintefarukhabiba@gmail.com)
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=habibabintefaruk&show_icons=true&theme=shades-of-purple&hide_border=true" />
