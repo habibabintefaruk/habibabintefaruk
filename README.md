@@ -15,7 +15,7 @@ I am an undergraduate Computer Science and Engineering student at Manarat Intern
 I am interested in exploring emerging technologies and understanding how research can contribute to meaningful and sustainable solutions.
 
 - 🎓 CSE Undergraduate at MIU
-- 🔬 Research Intern at the Institute of Advanced Research (IAR)
+- 🔬 Research Intern at the Center for Advanced Research (CAR)
 - 🌱 Exploring Green AI and Artificial Intelligence
 - 💡 Interested in Sustainable Computing
 - 📚 Always learning and exploring new ideas
