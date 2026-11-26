@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Habiba Binte Faruk </h1>
+<h1 align="center">Habiba Binte Faruk </h1>
 
 <h3 align="center">CSE Undergraduate | Research Enthusiast</h3>
 
