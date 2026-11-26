@@ -14,11 +14,11 @@ I am an undergraduate Computer Science and Engineering student at Manarat Intern
 
 I am interested in exploring emerging technologies and understanding how research can contribute to meaningful and sustainable solutions.
 
-- 🎓 CSE Undergraduate at MIU
-- 🔬 Research Intern at the Center for Advanced Research (CAR)
-- 🌱 Exploring Green AI and Artificial Intelligence
-- 💡 Interested in Sustainable Computing
-- 📚 Always learning and exploring new ideas
+- CSE Undergraduate at MIU
+- Research Intern at the Center for Advanced Research (CAR)
+- Exploring Green AI and Artificial Intelligence
+- Interested in Sustainable Computing
+- Always learning and exploring new ideas
 
 ##  Research Interests
 
@@ -46,7 +46,7 @@ I am interested in exploring emerging technologies and understanding how researc
 
 ##  Academic Projects
 
-### 🐾 Animal Rescue & Rehabilitation Coordination System
+###  Animal Rescue & Rehabilitation Coordination System
 
 A team-based academic project focused on animal rescue reporting, coordination, and rehabilitation tracking.
 
